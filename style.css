@@ -1,0 +1,62 @@
+body{
+	background-image: url(images/jaflong.jpg);
+	background-size: cover;
+	padding-top:50px;
+}
+
+.form{
+color:Blue;
+padding-top:30px;
+padding-left:50px;
+font-size:25px;
+background:#66ff99;
+width:500px;
+height:700px;
+margin:auto;
+border-radius:10px;
+opacity:.8;
+
+}
+h1{
+	text-align:center;
+}
+.form input{
+	margin-top:30px;
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border-radius:5px;
+}
+.form input [name="email"]{ 
+	
+	width:400px;
+
+}
+.form input [type="submit"]{ 
+	margin-top:10px;
+	width:150px;
+	border-radius:50px;
+	margin-left:100px;
+	height:50px;
+	background:blue;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+
+}
+.form input [type="submit"]:hover{ 
+	
+	background:white;
+	color:blue;
+	
+
+}
+p{
+	display:inline-block;
+}
+h5{
+	display:inline-block;
+}
+
+
+
